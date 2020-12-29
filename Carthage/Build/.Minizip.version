@@ -1,0 +1,10 @@
+{
+  "commitish" : "1.4.0",
+  "iOS" : [
+    {
+      "name" : "Minizip",
+      "hash" : "e27157055f9cfc50df5fb59943730deadbc88be3bd6adb511dc942179ebec3b5",
+      "linking" : "dynamic"
+    }
+  ]
+}
